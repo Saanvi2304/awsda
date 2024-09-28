@@ -1,0 +1,39 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  background-color: #ffedd5; /* Soft cream background */
+  border-bottom: 2px solid #e0c097; /* Soft brownish border */
+}
+
+.navbar-logo img {
+  height: 60px; /* Slightly bigger logo */
+}
+
+.navbar-logo h1 {
+  margin-left: 10px;
+  font-size: 24px;
+  font-family: 'Merienda', cursive; /* Playful font for logo */
+  color: #6b6054; /* Warm brownish color */
+}
+
+.navbar-menu {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
+
+.navbar-menu li {
+  display: inline;
+}
+
+.navbar-menu a {
+  font-size: 18px;
+  color: #7a6c5c; /* Warm brown links */
+  font-family: 'Poppins', sans-serif;
+}
+
+.navbar-menu a:hover {
+  color: #ffba86; /* Soft orange hover */
+}

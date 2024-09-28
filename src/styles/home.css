@@ -1,0 +1,15 @@
+.home-container {
+    text-align: center;
+    padding: 50px 20px;
+    background-color: #fff7e1; /* Soft pastel yellow */
+  }
+  
+  .home-container h1 {
+    font-size: 32px;
+    color: #6b6054; /* Warm brown */
+  }
+  
+  .todo-list-container {
+    margin-top: 40px;
+  }
+  

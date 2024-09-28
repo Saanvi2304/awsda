@@ -1,0 +1,26 @@
+.login-container {
+    text-align: center;
+    padding: 50px;
+    background-color: #fff7e1; /* Soft pastel yellow */
+    border-radius: 20px;
+    margin: 100px auto;
+    max-width: 400px;
+  }
+  
+  input {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 15px;
+    border: 2px solid #ffd5a5;
+  }
+  
+  button {
+    width: 100%;
+    background-color: #ffba86;
+    border-radius: 15px;
+    padding: 10px;
+    margin-top: 20px;
+  }
+  
